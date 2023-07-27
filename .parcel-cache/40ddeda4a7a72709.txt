@@ -52,7 +52,7 @@
 102C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\csso\node_modules\css-tree\lib\syntax\scope133348695104659120 1
 77C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\utility-types\dist133348695091912869 1
 85C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\nth-check\lib\parse.js.map133348695091932843 0
-52C:\Users\iasni\OneDrive\Desktop\namaste-react\App.js133348721830712885 0
+52C:\Users\iasni\OneDrive\Desktop\namaste-react\App.js133349296946897402 0
 90C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\caniuse-lite\data\regions\NI.js133348695109672297 0
 107C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\@swc\helpers\cjs\_object_destructuring_empty.cjs133348695097339546 0
 83C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\@swc\core\postinstall.js133348695085624816 0
@@ -60,7 +60,7 @@
 96C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\css-tree\cjs\syntax\node\Brackets.cjs133348695089443298 0
 77C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\css-tree\lib\utils133348695104733059 1
 103C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib133348695099185245 1
-56C:\Users\iasni\OneDrive\Desktop\namaste-react\.gitignore133348696446013010 0
+56C:\Users\iasni\OneDrive\Desktop\namaste-react\.gitignore133349249977828747 0
 144C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\definition-syntax\SyntaxError.js133348695100822990 0
 126C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeTitle.js133348695097133712 0
 90C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\css-tree\lib\tokenizer\types.js133348695104619181 0
@@ -69,10 +69,10 @@
 77C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\tslib\package.json133348695087815728 0
 71C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\css-tree\cjs133348695101182723 1
 98C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\caniuse-lite\data\features\autofocus.js133348695095595699 0
-50C:\Users\iasni\OneDrive\Desktop\namaste-react\dist133349244622880437 1
+50C:\Users\iasni\OneDrive\Desktop\namaste-react\dist133349296948362826 1
 91C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\css-what\lib\commonjs\types.d.ts133348695093025899 0
 112C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\@parcel\transformer-js\parcel-swc.win32-x64-msvc.node133348695112883849 0
-56C:\Users\iasni\OneDrive\Desktop\namaste-react\index.html133348713363003062 0
+56C:\Users\iasni\OneDrive\Desktop\namaste-react\index.html133349250795940531 0
 66C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\is-json133348695087107869 1
 93C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\caniuse-lite\data\features\webp.js133348695112602422 0
 106C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\csso\node_modules\css-tree\lib\lexer\generic.js133348695102670332 0
@@ -415,7 +415,7 @@
 102C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\@parcel\core\test\fixtures\invalid-distpath133348695103198139 1
 81C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\is-arrayish\.npmignore133348695083701364 0
 98C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\csso\node_modules\mdn-data\CHANGELOG.md133348695093762722 0
-61C:\Users\iasni\OneDrive\Desktop\namaste-react\dist\index.html133349244621956485 0
+61C:\Users\iasni\OneDrive\Desktop\namaste-react\dist\index.html133349296806044511 0
 69C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\micromatch133348695084925550 1
 93C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\caniuse-lite\data\features\heif.js133348695107031145 0
 92C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\@parcel\plugin\src\PluginAPI.d.ts133348695086364327 0
@@ -4567,7 +4567,7 @@
 101C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\@swc\helpers\_\_initializer_warning_helper133348695106145902 1
 104C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\@swc\helpers\_\_iterable_to_array_limit_loose133348695106263068 1
 90C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\@swc\helpers\_\_new_arrow_check133348695106347579 1
-68C:\Users\iasni\OneDrive\Desktop\namaste-react\dist\index.7826abd7.js133349244622795725 0
+68C:\Users\iasni\OneDrive\Desktop\namaste-react\dist\index.7826abd7.js133349296948222821 0
 94C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\@swc\helpers\_\_non_iterable_spread133348695106429329 1
 94C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\@swc\helpers\_\_object_spread_props133348695106464234 1
 100C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\@swc\helpers\_\_object_without_properties133348695106533338 1
@@ -6023,5 +6023,5 @@
 68C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\.bin\svgo133348695113349762 0
 72C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\.bin\svgo.cmd133348695113349762 0
 90C:\Users\iasni\OneDrive\Desktop\namaste-react\node_modules\.bin\update-browserslist-db.cmd133348695113349762 0
-72C:\Users\iasni\OneDrive\Desktop\namaste-react\dist\index.7826abd7.js.map133349244622866217 0
+72C:\Users\iasni\OneDrive\Desktop\namaste-react\dist\index.7826abd7.js.map133349296948342872 0
 80C:\Users\iasni\OneDrive\Desktop\namaste-react\dist\namaste-react.3464ddca.js.map133348705970305405 0

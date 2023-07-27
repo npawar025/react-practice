@@ -3,17 +3,8 @@ import ReactDOM from "react-dom/client";
 
 
 
-const heading = React.createElement("div", { id: "parent" }, [
-  React.createElement("div", { id: "child-one" }, [
-    React.createElement("h1", {}, "This is the h1"),
-    React.createElement("h2", {}, "This is the h2"),
-  ]),
-  React.createElement("div", { id: "child-two" }, [
-    React.createElement("h1", {}, "This is the h1"),
-    React.createElement("h2", {}, "This is the h2"),
-  ]),
-]);
+const jsxHeading  = <h1>Namaste React by Nilesh Pawar</h1>;
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-root.render(heading);
+root.render(jsxHeading);
